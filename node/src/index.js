@@ -21,10 +21,7 @@ app.use(cors()); */
 
 
 
-// App Routes
 
-/* const movies = require("./routes/moviesApi");
-app.use(movies);  */   
 
 
 
